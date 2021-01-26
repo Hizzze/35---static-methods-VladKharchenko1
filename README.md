@@ -7,6 +7,8 @@
 
 
 Перевірка роботи програми
-| <img src="https://github.com/ppc-ntu-khpi/35---static-methods-VladKharchenko1/blob/master/scrin1.png"> |
+ <img src="https://github.com/ppc-ntu-khpi/35---static-methods-VladKharchenko1/blob/master/scrin1.png"> 
+ <img src="https://github.com/ppc-ntu-khpi/35---static-methods-VladKharchenko1/blob/master/scrin2.png">
+ <img src="https://github.com/ppc-ntu-khpi/35---static-methods-VladKharchenko1/blob/master/scrin3.png">
 
 
