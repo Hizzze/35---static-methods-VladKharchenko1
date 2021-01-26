@@ -1,19 +1,19 @@
 package domain;
 
 /**
- * Клас шифрує і розшифровує строку шифром Цезаря.
+ * Зашифрувати задану фразу шифром Цезаря з заданою величиною зсуву N
  * 
  * @author Vlad
  */
 public class Exercise {
 	
 	/**
-	 * Шифрує строку шифром Цезаря з заданою величиною зсуву
+	 * Зашифрувати задану фразу шифром Цезаря з заданою величиною зсуву N
 	 * 
-	 * @param str строка для шифрування
+	 * @param str рядок для шифрування
 	 * @param shiftKey величина зсуву
 	 * 
-	 * @return Строка ширфом цезаря
+	 * @return Рядок ширфом цезаря
 	 */
 	public static String crypt(String str, int shiftKey) {
 		char[] chars = str.toCharArray();	
@@ -24,12 +24,12 @@ public class Exercise {
 	}
 	
 	/**
-	 * Розшифровує строку шифром Цезаря з заданою величиною зсуву
+	 * Зашифрувати задану фразу шифром Цезаря з заданою величиною зсуву N
 	 * 
-	 * @param str строка для розшифрування
+	 * @param str рядок для розшифрування
 	 * @param shiftKey величина зсуву
 	 * 
-	 * @return Розшифрована строка
+	 * @return Розшифрований рядок
 	 */
 	public static String decrypt(String str, int shiftKey) {
 		char[] chars = str.toCharArray();
